@@ -8,7 +8,7 @@
  * Then I parse the JSON via the nlohmann library into C++.
  * and classify an example feature vector and output the leaf tree.
 
-The trained tree is stored in examples/hello.json
+The trained tree is stored in [examples/hello.json](examples/hello.json).
 
 Evaluated examples (from the training set - to test the interpreter not to evaluate the quality of the trained tree):
 ```
