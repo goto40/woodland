@@ -1,0 +1,130 @@
+{
+    "name": "petal width (cm)",
+    "idx": 3,
+    "threshold": 0.800000011920929,
+    "left": {
+      "class_idx": 0,
+      "probs": [
+        [
+          50.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    "right": {
+      "name": "petal width (cm)",
+      "idx": 3,
+      "threshold": 1.75,
+      "left": {
+        "name": "petal length (cm)",
+        "idx": 2,
+        "threshold": 4.950000047683716,
+        "left": {
+          "name": "petal width (cm)",
+          "idx": 3,
+          "threshold": 1.6500000357627869,
+          "left": {
+            "class_idx": 1,
+            "probs": [
+              [
+                0.0,
+                47.0,
+                0.0
+              ]
+            ]
+          },
+          "right": {
+            "class_idx": 2,
+            "probs": [
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        },
+        "right": {
+          "name": "petal width (cm)",
+          "idx": 3,
+          "threshold": 1.550000011920929,
+          "left": {
+            "class_idx": 2,
+            "probs": [
+              [
+                0.0,
+                0.0,
+                3.0
+              ]
+            ]
+          },
+          "right": {
+            "name": "petal length (cm)",
+            "idx": 2,
+            "threshold": 5.450000047683716,
+            "left": {
+              "class_idx": 1,
+              "probs": [
+                [
+                  0.0,
+                  2.0,
+                  0.0
+                ]
+              ]
+            },
+            "right": {
+              "class_idx": 2,
+              "probs": [
+                [
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "right": {
+        "name": "petal length (cm)",
+        "idx": 2,
+        "threshold": 4.8500001430511475,
+        "left": {
+          "name": "sepal width (cm)",
+          "idx": 1,
+          "threshold": 3.100000023841858,
+          "left": {
+            "class_idx": 2,
+            "probs": [
+              [
+                0.0,
+                0.0,
+                2.0
+              ]
+            ]
+          },
+          "right": {
+            "class_idx": 1,
+            "probs": [
+              [
+                0.0,
+                1.0,
+                0.0
+              ]
+            ]
+          }
+        },
+        "right": {
+          "class_idx": 2,
+          "probs": [
+            [
+              0.0,
+              0.0,
+              43.0
+            ]
+          ]
+        }
+      }
+    }
+  }
