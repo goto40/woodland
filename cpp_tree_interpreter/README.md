@@ -28,7 +28,7 @@ Evaluated examples (from the training set - to test the interpreter not to evalu
 ./build/execute_tree examples/hello.json 5.9 3.  5.1 1.8
 ```
 
-All examples yield the exepcted class index.
+All examples yield the expected class index.
 
 The Iris data is given as follows (examples):
 ```
