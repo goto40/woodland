@@ -6,7 +6,7 @@
 
 ## C++
  * Then I parse the JSON via the nlohmann library into C++.
- * and classify an example feature vector and output the leaf tree.
+ * and classify an example feature vector and output the leaf tree: [examples/execute_tree.cpp](examples/execute_tree.cpp).
 
 The trained tree is stored in [examples/hello.json](examples/hello.json).
 
